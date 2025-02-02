@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/ABDULLAH Pro/Pizza/ChatGpt"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tailwind cdn"
+	}
+}
